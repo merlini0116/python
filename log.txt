@@ -1,0 +1,29 @@
+    1  git
+    2  pwd
+    3  mkdir Demo
+    4  cd Demo
+    5  vi README.md
+    6  git init
+    7  ls -al
+    8  ls
+    9  cd De
+   10  cd Demo
+   11  ls
+   12  git add README.md
+   13  git status
+   14  git config --global user.name "merlini0116"
+   15  git config --global user.email "great.dean@outlook.com"
+   16  git commit -m "first commit"
+   17  git remote add origin https://github.com/merlini0116/python.git
+   18  git push origin master
+   19  cd
+   20  pwd
+   21  git clone https://github.com/shiyanlou/gitproject
+   22  ls
+   23  cd gitproject
+   24  ls
+   25  cat README.md
+   26  ls
+   27  cd  ../
+   28  ls
+   29  history
